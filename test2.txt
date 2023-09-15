@@ -1,2 +1,3 @@
 this is a test 2 file
 testing reset commit id and whateeverdfdf
+Hi, I added a new feat
